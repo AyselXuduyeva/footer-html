@@ -1,0 +1,31 @@
+.text{
+   display: flex;
+   justify-content: space-around;
+ color:white;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+.text-center{
+    text-align: center;
+    color: white;
+    
+   
+    
+}
+.img{
+    display: flex;
+    
+margin:10px 0px ;
+}
+.img a{margin-right: 10px;
+
+}
+.img-list li{
+ margin-bottom: 30px;
+}
+div ul h2{
+
+    color:white;
+}

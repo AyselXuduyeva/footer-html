@@ -1,0 +1,58 @@
+.parent-consulting {
+    display: flex ;
+    justify-content: space-between;
+}
+.parent-consulting p {
+color: #737373;
+}
+ul{
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none; 
+    color:  #ffffff;   
+    
+}
+ul li:first-child a{
+   font-weight: bold;
+   color: rgb(255, 255, 255);
+}
+.quick-links{
+    display: flex;
+    justify-content: space-around;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    color: #737373;
+}
+.copyright ul{ 
+    display: flex;
+}
+.copyright ul li {
+    margin-left: 10px;
+}
+.consulting-text{
+    margin-left: 115px;
+}
+.consulting-button{
+    margin-right: 130px;
+
+}
+.copyright-text{
+    margin-left: 115px;
+   
+}
+.copyright-link{
+    margin-right: 130px;
+}
+.consulting-button button{
+    background-color:#23A6F0;
+    color:  #FFF;
+    width: 100px;
+    height: 40px;
+    border-radius:10%;
+    border: 0 #23A6F0;
+
+}
